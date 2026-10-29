@@ -59,3 +59,15 @@
 - **Décision** : ordre des preuves : valeur de la source, nature de la source (notaires et historique = ventes), statut contrôlé par le prix, puis échelle de prix (seuil 2 000 000 FCFA dans `config/regles.json`). Contradiction ou absence de preuve : ambigu.
 - **Résultat** : 502 locations, 2 680 ventes, 2 ambigus (teranga, sans prix et statut « Disponible »), mis en quarantaine.
 - **Limites** : le seuil est calculé sur ce jeu synthétique, c'est une hypothèse pédagogique et non une norme de marché. La périodicité des loyers n'est pas déduite : seule la plateforme la fournit (`FCFA/mois`), elle sera signalée comme manquante ailleurs et non devinée.
+
+
+## D-012 — Résolution de D-009 : le cahier des charges prévaut
+- **Constat** : le cahier des charges (section 6.1, « tableau de remplacement ») et `regles_metier.md` divergent : quarantaine ou avertissement pour un type hors référentiel, date future pour toute transaction ou seulement une vente conclue.
+- **Décision** : le cahier des charges remplace le fichier du pack. Un type de bien hors référentiel et toute date future sont **bloquants** (quarantaine).
+- **Effet dans ce pack** : 0 type hors référentiel ; 5 dates futures (2028-12-01).
+
+## D-013 — Définitions des indicateurs de conformité
+- **Taux de conformité d'une règle** = conformes / évaluables × 100. Les non évaluables sont comptés à part et jamais considérés comme conformes.
+- **Classement global** : un enregistrement est compté une seule fois. Quarantaine si au moins une règle bloquante est violée, sinon conservé avec avertissement si au moins un avertissement, sinon entièrement conforme.
+- **Résultat** : 187 en quarantaine, 394 avec avertissement, 2 603 entièrement conformes (81,75 % de 3 184).
+- **Limite** : les seuils d'avertissement sont des hypothèses pédagogiques ; la règle B06 dépend de la date d'exécution, qui sera consignée dans le rapport.
