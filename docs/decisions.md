@@ -30,3 +30,9 @@
 ## D-006 — Doublons exacts de la plateforme
 - **Constat** : 15 paires d'enregistrements identiques (même `id_local`, mêmes valeurs sur tous les autres champs), toutes dans la plateforme.
 - **Décision prévue** : conserver la première occurrence et journaliser la seconde comme doublon exact ; les conflits (même identifiant, valeurs différentes) seront signalés et non résolus arbitrairement.
+
+
+## D-007 — Règles et seuils externalisés dans config/regles.json
+- **Décision** : seuils, listes autorisées, synonymes et fourchettes sont lus depuis `config/regles.json`, jamais écrits dans les fonctions.
+- **Raison** : exigence du cahier des charges (seuils configurables) ; permet de modifier une règle sans toucher au code.
+- **Limite** : les seuils sont des hypothèses pédagogiques, pas des normes officielles.
