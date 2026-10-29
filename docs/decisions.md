@@ -6,6 +6,7 @@
 - **Décision** : interprétation `JJ/MM/AAAA` pour toute la source.
 - **Limite** : 88 dates sont ambiguës isolément ; elles sont converties par cohérence de source.
 - **Script** : `scripts/inspection_dates.py`
+
 ## D-002 — Convention de dates de la source particuliers
 - **Constat** : 446 dates au format `xx/xx/xxxx` et 285 au format ISO dans `particuliers.json`.
 - **Preuve** : sur les 446 dates à barres, 269 ont un premier nombre > 12 et aucune n'a de second nombre > 12.
