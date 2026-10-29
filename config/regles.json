@@ -5,6 +5,7 @@
     "avertissement": "conservé avec signalement"
   },
   "seuils": {
+    "seuil_location_vente_fcfa": 2000000,
     "surface_m2": { "min_atypique": 5, "max_atypique": 2000 },
     "prix_fcfa": { "min_atypique": 100000, "max_atypique": 2000000000 },
     "loyer_mensuel_fcfa": { "min_atypique": 25000, "max_atypique": 5000000 },

@@ -51,3 +51,11 @@
 ## D-010 — Nombres en lettres et ambiguïté « 1,250 »
 - **Décision** : seul le nombre écrit en lettres du dictionnaire (`quatre-vingt`, 4 cas) est converti, avec motif. Une surface de la forme `x,yyy` est marquée ambiguë et jamais convertie par défaut.
 - **Limite** : le cas `x,yyy` n'apparaît pas dans ce pack ; il est couvert par un test.
+
+
+## D-011 — Résolution de D-004 : déduction du type de transaction
+- **Constat** : 1 578 enregistrements sans type de transaction (teranga 640, notaires 410, historique 528).
+- **Preuve** : dans les deux sources étiquetées (plateforme, particuliers), les échelles de prix sont disjointes (loyers ≤ 1 755 000, ventes ≥ 5 156 000 FCFA). Notaires et historique n'ont aucun prix sous 5,4 M FCFA. Dans teranga, `Loué` correspond toujours à un prix bas, `Vendu` et `En vente` à un prix élevé.
+- **Décision** : ordre des preuves : valeur de la source, nature de la source (notaires et historique = ventes), statut contrôlé par le prix, puis échelle de prix (seuil 2 000 000 FCFA dans `config/regles.json`). Contradiction ou absence de preuve : ambigu.
+- **Résultat** : 502 locations, 2 680 ventes, 2 ambigus (teranga, sans prix et statut « Disponible »), mis en quarantaine.
+- **Limites** : le seuil est calculé sur ce jeu synthétique, c'est une hypothèse pédagogique et non une norme de marché. La périodicité des loyers n'est pas déduite : seule la plateforme la fournit (`FCFA/mois`), elle sera signalée comme manquante ailleurs et non devinée.
