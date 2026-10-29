@@ -3,6 +3,10 @@ from pathlib import Path
 
 RACINE = Path(__file__).resolve().parent.parent
 CHEMIN_CONFIG = RACINE / "config" / "regles.json"
+CHEMIN_REFERENTIEL_GEO = (
+    RACINE / "data" / "raw" / "immoanalyse_dataset" / "referentiels"
+    / "referentiel_geographique.csv"
+)
 
 
 def charger_config(chemin: Path = CHEMIN_CONFIG) -> dict:

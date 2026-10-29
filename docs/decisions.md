@@ -36,3 +36,18 @@
 - **Décision** : seuils, listes autorisées, synonymes et fourchettes sont lus depuis `config/regles.json`, jamais écrits dans les fonctions.
 - **Raison** : exigence du cahier des charges (seuils configurables) ; permet de modifier une règle sans toucher au code.
 - **Limite** : les seuils sont des hypothèses pédagogiques, pas des normes officielles.
+
+
+## D-008 — Convention de dates des sources teranga et notaires
+- **Constat** : teranga contient 298 dates à barres, notaires en contient 6.
+- **Preuve teranga** : 181 ont un premier nombre > 12, aucune n'a de second nombre > 12 ; 117 sont ambiguës isolément. Convention `JJ/MM/AAAA`.
+- **Notaires** : les 6 dates à barres sont toutes impossibles (`32/13/2024`) ; elles sont invalides et iront en quarantaine.
+- **Décision** : `JJ/MM/AAAA` appliqué à toutes les sources, validé par les preuves de D-001, D-002 et D-008.
+
+## D-009 — Type de bien hors référentiel : gravité à trancher
+- **Constat** : le cahier des charges (6.1) prescrit la quarantaine, `regles_metier.md` prescrit un avertissement.
+- **Décision** : à fixer dans `config/regles.json` à la tâche 3. Dans ce pack, aucun cas n'est concerné (tous les types se ramènent aux 7 catégories).
+
+## D-010 — Nombres en lettres et ambiguïté « 1,250 »
+- **Décision** : seul le nombre écrit en lettres du dictionnaire (`quatre-vingt`, 4 cas) est converti, avec motif. Une surface de la forme `x,yyy` est marquée ambiguë et jamais convertie par défaut.
+- **Limite** : le cas `x,yyy` n'apparaît pas dans ce pack ; il est couvert par un test.
