@@ -1,0 +1,16 @@
+code,regle,gravite,evaluables,conformes,non_conformes,non_evaluables,taux_conformite
+B01,Identifiant local présent,bloquante,3184,3184,0,0,100.0
+B02,Type de transaction interprétable,bloquante,3184,3182,2,0,99.94
+B03,Prix numérique strictement positif,bloquante,3184,3086,98,0,96.92
+B04,Surface numérique strictement positive,bloquante,3184,3100,84,0,97.36
+B05,Date interprétable,bloquante,3184,3178,6,0,99.81
+B06,Date non future (par rapport à l'exécution),bloquante,3178,3173,5,6,99.84
+B07,Type de bien dans le référentiel,bloquante,3184,3184,0,0,100.0
+A01,Surface non atypique,avertissement,3100,3100,0,84,100.0
+A02,Prix de vente non atypique,avertissement,2608,2608,0,576,100.0
+A03,Loyer mensuel non atypique,avertissement,177,177,0,3007,100.0
+A04,Prix au m² dans la fourchette du type,avertissement,2552,2548,4,632,99.84
+A05,Nombre de chambres plausible,avertissement,2309,2309,0,875,100.0
+A06,Salles de bain <= chambres + 2,avertissement,1899,1778,121,1285,93.63
+A07,Ville cohérente avec la région,avertissement,3176,3172,4,8,99.87
+A08,Périodicité du loyer renseignée,avertissement,502,177,325,2682,35.26

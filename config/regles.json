@@ -1,0 +1,44 @@
+{
+  "doublons": {"tolerance_surface_pct": 0.2, "tolerance_prix_pct": 5.0, "tolerance_date_jours": 30},
+  "doublons": {"tolerance_surface_pct": 0.2, "tolerance_prix_pct": 5.0, "tolerance_date_jours": 30},
+  "gravites": {
+    "bloquante": "quarantaine",
+    "normalisable": "correction documentée",
+    "avertissement": "conservé avec signalement"
+  },
+  "seuils": {
+    "seuil_location_vente_fcfa": 2000000,
+    "surface_m2": { "min_atypique": 5, "max_atypique": 2000 },
+    "prix_fcfa": { "min_atypique": 100000, "max_atypique": 2000000000 },
+    "loyer_mensuel_fcfa": { "min_atypique": 25000, "max_atypique": 5000000 },
+    "chambres_max_appartement_studio": 10,
+    "salles_bain_marge_sur_chambres": 2
+  },
+  "types_transaction": ["vente", "location"],
+  "periodicites": ["mensuel", "trimestriel", "semestriel", "annuel"],
+  "synonymes_periodicite": {
+    "/mois": "mensuel",
+    "par mois": "mensuel",
+    "mensuel": "mensuel",
+    "mens.": "mensuel"
+  },
+  "types_bien": {
+    "Appartement": ["appart", "appartement", "appt"],
+    "Studio": ["studio"],
+    "Chambre": ["chambre", "chambre simple"],
+    "Villa": ["villa"],
+    "Maison": ["maison"],
+    "Terrain": ["terrain", "terrains"],
+    "Local commercial": ["local", "local commercial", "bureau", "magasin"]
+  },
+  "fourchettes_indicatives": {
+    "Appartement": { "prix_min": 25000000, "prix_max": 120000000, "surface_min": 45, "surface_max": 180 },
+    "Studio": { "prix_min": 12000000, "prix_max": 45000000, "surface_min": 20, "surface_max": 60 },
+    "Chambre": { "prix_min": 5000000, "prix_max": 18000000, "surface_min": 10, "surface_max": 30 },
+    "Villa": { "prix_min": 80000000, "prix_max": 450000000, "surface_min": 120, "surface_max": 450 },
+    "Maison": { "prix_min": 35000000, "prix_max": 180000000, "surface_min": 60, "surface_max": 250 },
+    "Terrain": { "prix_min": 8000000, "prix_max": 90000000, "surface_min": 80, "surface_max": 1500 },
+    "Local commercial": { "prix_min": 30000000, "prix_max": 200000000, "surface_min": 40, "surface_max": 300 }
+  },
+  "valeurs_vides": ["", "nan", "none", "null", "n/a", "na", "-", "inconnu"]
+}

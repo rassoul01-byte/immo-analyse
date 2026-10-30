@@ -1,0 +1,418 @@
+{
+  "date_execution": "2026-10-29",
+  "total_recus": 3184,
+  "recus_par_source": {
+    "plateforme": 875,
+    "particuliers": 731,
+    "teranga": 640,
+    "historique": 528,
+    "notaires": 410
+  },
+  "valeurs_manquantes": {
+    "id_local": {
+      "total": 0,
+      "taux_pct": 0.0,
+      "par_source": {
+        "historique": 0,
+        "notaires": 0,
+        "particuliers": 0,
+        "plateforme": 0,
+        "teranga": 0
+      }
+    },
+    "date": {
+      "total": 0,
+      "taux_pct": 0.0,
+      "par_source": {
+        "historique": 0,
+        "notaires": 0,
+        "particuliers": 0,
+        "plateforme": 0,
+        "teranga": 0
+      }
+    },
+    "type_transaction": {
+      "total": 1578,
+      "taux_pct": 49.56,
+      "par_source": {
+        "historique": 528,
+        "notaires": 410,
+        "particuliers": 0,
+        "plateforme": 0,
+        "teranga": 640
+      }
+    },
+    "type_bien": {
+      "total": 0,
+      "taux_pct": 0.0,
+      "par_source": {
+        "historique": 0,
+        "notaires": 0,
+        "particuliers": 0,
+        "plateforme": 0,
+        "teranga": 0
+      }
+    },
+    "region": {
+      "total": 0,
+      "taux_pct": 0.0,
+      "par_source": {
+        "historique": 0,
+        "notaires": 0,
+        "particuliers": 0,
+        "plateforme": 0,
+        "teranga": 0
+      }
+    },
+    "ville": {
+      "total": 8,
+      "taux_pct": 0.25,
+      "par_source": {
+        "historique": 8,
+        "notaires": 0,
+        "particuliers": 0,
+        "plateforme": 0,
+        "teranga": 0
+      }
+    },
+    "prix": {
+      "total": 85,
+      "taux_pct": 2.67,
+      "par_source": {
+        "historique": 10,
+        "notaires": 14,
+        "particuliers": 61,
+        "plateforme": 0,
+        "teranga": 0
+      }
+    },
+    "surface": {
+      "total": 80,
+      "taux_pct": 2.51,
+      "par_source": {
+        "historique": 0,
+        "notaires": 0,
+        "particuliers": 75,
+        "plateforme": 5,
+        "teranga": 0
+      }
+    },
+    "chambres": {
+      "total": 875,
+      "taux_pct": 27.48,
+      "par_source": {
+        "historique": 0,
+        "notaires": 0,
+        "particuliers": 0,
+        "plateforme": 875,
+        "teranga": 0
+      }
+    },
+    "salles_bain": {
+      "total": 410,
+      "taux_pct": 12.88,
+      "par_source": {
+        "historique": 0,
+        "notaires": 410,
+        "particuliers": 0,
+        "plateforme": 0,
+        "teranga": 0
+      }
+    },
+    "statut": {
+      "total": 528,
+      "taux_pct": 16.58,
+      "par_source": {
+        "historique": 528,
+        "notaires": 0,
+        "particuliers": 0,
+        "plateforme": 0,
+        "teranga": 0
+      }
+    },
+    "quartier": {
+      "total": 2309,
+      "taux_pct": 72.52,
+      "par_source": {
+        "historique": 528,
+        "notaires": 410,
+        "particuliers": 731,
+        "plateforme": 0,
+        "teranga": 640
+      }
+    },
+    "devise": {
+      "total": 2309,
+      "taux_pct": 72.52,
+      "par_source": {
+        "historique": 528,
+        "notaires": 410,
+        "particuliers": 731,
+        "plateforme": 0,
+        "teranga": 640
+      }
+    },
+    "description": {
+      "total": 2474,
+      "taux_pct": 77.7,
+      "par_source": {
+        "historique": 528,
+        "notaires": 410,
+        "particuliers": 731,
+        "plateforme": 165,
+        "teranga": 640
+      }
+    },
+    "date_expiration": {
+      "total": 2309,
+      "taux_pct": 72.52,
+      "par_source": {
+        "historique": 528,
+        "notaires": 410,
+        "particuliers": 731,
+        "plateforme": 0,
+        "teranga": 640
+      }
+    },
+    "commercial": {
+      "total": 2544,
+      "taux_pct": 79.9,
+      "par_source": {
+        "historique": 528,
+        "notaires": 410,
+        "particuliers": 731,
+        "plateforme": 875,
+        "teranga": 0
+      }
+    },
+    "pieces": {
+      "total": 2309,
+      "taux_pct": 72.52,
+      "par_source": {
+        "historique": 528,
+        "notaires": 410,
+        "particuliers": 731,
+        "plateforme": 0,
+        "teranga": 640
+      }
+    }
+  },
+  "colonnes_absentes_par_construction": [
+    "historique.type_transaction",
+    "historique.statut",
+    "historique.quartier",
+    "historique.devise",
+    "historique.description",
+    "historique.date_expiration",
+    "historique.commercial",
+    "historique.pieces",
+    "notaires.type_transaction",
+    "notaires.salles_bain",
+    "notaires.quartier",
+    "notaires.devise",
+    "notaires.description",
+    "notaires.date_expiration",
+    "notaires.commercial",
+    "notaires.pieces",
+    "particuliers.quartier",
+    "particuliers.devise",
+    "particuliers.description",
+    "particuliers.date_expiration",
+    "particuliers.commercial",
+    "particuliers.pieces",
+    "plateforme.chambres",
+    "plateforme.commercial",
+    "teranga.type_transaction",
+    "teranga.quartier",
+    "teranga.devise",
+    "teranga.description",
+    "teranga.date_expiration",
+    "teranga.pieces"
+  ],
+  "doublons": {
+    "exacts": 15,
+    "taux_exacts_pct": 0.47,
+    "probables": 0,
+    "conflits_identifiant": 0,
+    "conflits_prix": 0
+  },
+  "erreurs_conversion_par_champ": {
+    "date": 6,
+    "prix": 11,
+    "surface": 4,
+    "type_transaction": 2
+  },
+  "regles": [
+    {
+      "code": "B01",
+      "regle": "Identifiant local présent",
+      "gravite": "bloquante",
+      "evaluables": 3184,
+      "conformes": 3184,
+      "non_conformes": 0,
+      "non_evaluables": 0,
+      "taux_conformite": 100.0
+    },
+    {
+      "code": "B02",
+      "regle": "Type de transaction interprétable",
+      "gravite": "bloquante",
+      "evaluables": 3184,
+      "conformes": 3182,
+      "non_conformes": 2,
+      "non_evaluables": 0,
+      "taux_conformite": 99.94
+    },
+    {
+      "code": "B03",
+      "regle": "Prix numérique strictement positif",
+      "gravite": "bloquante",
+      "evaluables": 3184,
+      "conformes": 3086,
+      "non_conformes": 98,
+      "non_evaluables": 0,
+      "taux_conformite": 96.92
+    },
+    {
+      "code": "B04",
+      "regle": "Surface numérique strictement positive",
+      "gravite": "bloquante",
+      "evaluables": 3184,
+      "conformes": 3100,
+      "non_conformes": 84,
+      "non_evaluables": 0,
+      "taux_conformite": 97.36
+    },
+    {
+      "code": "B05",
+      "regle": "Date interprétable",
+      "gravite": "bloquante",
+      "evaluables": 3184,
+      "conformes": 3178,
+      "non_conformes": 6,
+      "non_evaluables": 0,
+      "taux_conformite": 99.81
+    },
+    {
+      "code": "B06",
+      "regle": "Date non future (par rapport à l'exécution)",
+      "gravite": "bloquante",
+      "evaluables": 3178,
+      "conformes": 3173,
+      "non_conformes": 5,
+      "non_evaluables": 6,
+      "taux_conformite": 99.84
+    },
+    {
+      "code": "B07",
+      "regle": "Type de bien dans le référentiel",
+      "gravite": "bloquante",
+      "evaluables": 3184,
+      "conformes": 3184,
+      "non_conformes": 0,
+      "non_evaluables": 0,
+      "taux_conformite": 100.0
+    },
+    {
+      "code": "A01",
+      "regle": "Surface non atypique",
+      "gravite": "avertissement",
+      "evaluables": 3100,
+      "conformes": 3100,
+      "non_conformes": 0,
+      "non_evaluables": 84,
+      "taux_conformite": 100.0
+    },
+    {
+      "code": "A02",
+      "regle": "Prix de vente non atypique",
+      "gravite": "avertissement",
+      "evaluables": 2608,
+      "conformes": 2608,
+      "non_conformes": 0,
+      "non_evaluables": 576,
+      "taux_conformite": 100.0
+    },
+    {
+      "code": "A03",
+      "regle": "Loyer mensuel non atypique",
+      "gravite": "avertissement",
+      "evaluables": 177,
+      "conformes": 177,
+      "non_conformes": 0,
+      "non_evaluables": 3007,
+      "taux_conformite": 100.0
+    },
+    {
+      "code": "A04",
+      "regle": "Prix au m² dans la fourchette du type",
+      "gravite": "avertissement",
+      "evaluables": 2552,
+      "conformes": 2548,
+      "non_conformes": 4,
+      "non_evaluables": 632,
+      "taux_conformite": 99.84
+    },
+    {
+      "code": "A05",
+      "regle": "Nombre de chambres plausible",
+      "gravite": "avertissement",
+      "evaluables": 2309,
+      "conformes": 2309,
+      "non_conformes": 0,
+      "non_evaluables": 875,
+      "taux_conformite": 100.0
+    },
+    {
+      "code": "A06",
+      "regle": "Salles de bain <= chambres + 2",
+      "gravite": "avertissement",
+      "evaluables": 1899,
+      "conformes": 1778,
+      "non_conformes": 121,
+      "non_evaluables": 1285,
+      "taux_conformite": 93.63
+    },
+    {
+      "code": "A07",
+      "regle": "Ville cohérente avec la région",
+      "gravite": "avertissement",
+      "evaluables": 3176,
+      "conformes": 3172,
+      "non_conformes": 4,
+      "non_evaluables": 8,
+      "taux_conformite": 99.87
+    },
+    {
+      "code": "A08",
+      "regle": "Périodicité du loyer renseignée",
+      "gravite": "avertissement",
+      "evaluables": 502,
+      "conformes": 177,
+      "non_conformes": 325,
+      "non_evaluables": 2682,
+      "taux_conformite": 35.26
+    }
+  ],
+  "enregistrements": {
+    "corriges": 1208,
+    "type_transaction_deduit": 1576,
+    "quarantaine": 186,
+    "conserves_avec_avertissement": 394,
+    "entierement_conformes": 2589,
+    "doublons_ecartes": 15
+  },
+  "taux_global_entierement_conformes_pct": 81.31,
+  "definitions": {
+    "taux_conformite_regle": "conformes / evaluables x 100 ; les non evaluables sont comptes a part",
+    "classement": "chaque enregistrement est compte une seule fois : doublon ecarte, sinon quarantaine (au moins une regle bloquante violee), sinon avertissement, sinon entierement conforme",
+    "taux_global": "entierement conformes / total recus",
+    "corriges": "enregistrements ayant au moins une valeur normalisee (hors type de transaction et periodicite deduits)"
+  },
+  "limites": [
+    "Seuils de plausibilite : hypotheses pedagogiques, pas des normes de marche.",
+    "Donnees synthetiques : aucune conclusion sur les prix reels du marche.",
+    "Aucun doublon probable detecte entre sources avec les criteres retenus (voir D-014).",
+    "La regle B06 depend de la date d'execution."
+  ]
+}
