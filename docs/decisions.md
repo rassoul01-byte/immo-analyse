@@ -89,3 +89,11 @@
 - **Enregistrements corrigés** : au moins une valeur normalisée (millions, séparateurs, virgule décimale, casse, nombre en lettres), hors type de transaction et périodicité qui sont déduits et comptés à part.
 - **Colonnes absentes par construction** (par exemple `plateforme.chambres`) listées dans le rapport et distinguées des valeurs manquantes.
 - **Reproductibilité** : le pipeline se lance avec `python -m src.main --date AAAA-MM-JJ` depuis la racine ; relancer remplace les fichiers de sortie par des fichiers identiques ; `data/raw/` n'est jamais modifié (vérifié par empreintes dans les tests).
+
+
+## D-016 — Conventions d'analyse (Étape 5)
+- **Périmètre** : ventes et locations analysées séparément ; prix au m² calculé uniquement pour les ventes avec prix et surface strictement positifs (2 531 ventes sur 2 983 biens propres).
+- **Loyers** : seuls les loyers de périodicité mensuelle connue sont analysés (171 sur 452) ; la périodicité n'est jamais devinée.
+- **Indicateurs** : la médiane est privilégiée à la moyenne car la distribution des prix est asymétrique (médiane 74,98 M contre moyenne 104,63 M FCFA) ; la moyenne est fournie à titre de comparaison.
+- **Groupes** : un groupe de moins de 5 biens est marqué `effectif_fiable = False`.
+- **Limite** : prix demandés (annonces), données synthétiques ; aucune conclusion sur les prix réels du marché.
