@@ -1,0 +1,650 @@
+id_ligne,source,code,gravite,motif
+13,plateforme,B06,bloquante,date future (2028-12-01)
+61,plateforme,B03,bloquante,prix invalide
+76,plateforme,B06,bloquante,date future (2028-12-01)
+84,plateforme,B03,bloquante,prix invalide
+210,plateforme,B04,bloquante,surface manquant
+221,plateforme,B03,bloquante,prix invalide
+248,plateforme,B04,bloquante,surface manquant
+394,plateforme,B06,bloquante,date future (2028-12-01)
+506,plateforme,B04,bloquante,surface manquant
+571,plateforme,B06,bloquante,date future (2028-12-01)
+675,plateforme,B03,bloquante,prix invalide
+686,plateforme,B04,bloquante,surface manquant
+711,plateforme,B03,bloquante,prix invalide
+728,plateforme,B04,bloquante,surface manquant
+752,plateforme,B06,bloquante,date future (2028-12-01)
+861,plateforme,B03,bloquante,prix invalide
+880,teranga,B04,bloquante,surface invalide
+888,teranga,A08,avertissement,périodicité du loyer non fournie
+890,teranga,A08,avertissement,périodicité du loyer non fournie
+895,teranga,A08,avertissement,périodicité du loyer non fournie
+906,teranga,A08,avertissement,périodicité du loyer non fournie
+916,teranga,A06,avertissement,4 salles de bain pour 0 chambres
+924,teranga,A08,avertissement,périodicité du loyer non fournie
+932,teranga,A08,avertissement,périodicité du loyer non fournie
+934,teranga,A08,avertissement,périodicité du loyer non fournie
+936,teranga,A08,avertissement,périodicité du loyer non fournie
+950,teranga,A08,avertissement,périodicité du loyer non fournie
+954,teranga,A08,avertissement,périodicité du loyer non fournie
+958,teranga,A08,avertissement,périodicité du loyer non fournie
+960,teranga,A08,avertissement,périodicité du loyer non fournie
+962,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+964,teranga,A08,avertissement,périodicité du loyer non fournie
+970,teranga,A08,avertissement,périodicité du loyer non fournie
+974,teranga,A08,avertissement,périodicité du loyer non fournie
+978,teranga,A08,avertissement,périodicité du loyer non fournie
+980,teranga,A08,avertissement,périodicité du loyer non fournie
+982,teranga,A06,avertissement,3 salles de bain pour 0 chambres
+984,teranga,A08,avertissement,périodicité du loyer non fournie
+989,teranga,A08,avertissement,périodicité du loyer non fournie
+990,teranga,A08,avertissement,périodicité du loyer non fournie
+993,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+994,teranga,A08,avertissement,périodicité du loyer non fournie
+996,teranga,A08,avertissement,périodicité du loyer non fournie
+997,teranga,A08,avertissement,périodicité du loyer non fournie
+1004,teranga,B03,bloquante,prix invalide
+1019,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1026,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1029,teranga,A08,avertissement,périodicité du loyer non fournie
+1035,teranga,A08,avertissement,périodicité du loyer non fournie
+1044,teranga,A08,avertissement,périodicité du loyer non fournie
+1048,teranga,B02,bloquante,type de transaction non interprétable
+1048,teranga,B03,bloquante,prix invalide
+1050,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1050,teranga,A08,avertissement,périodicité du loyer non fournie
+1053,teranga,A08,avertissement,périodicité du loyer non fournie
+1056,teranga,A08,avertissement,périodicité du loyer non fournie
+1058,teranga,A08,avertissement,périodicité du loyer non fournie
+1069,teranga,A08,avertissement,périodicité du loyer non fournie
+1086,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1089,teranga,A04,avertissement,prix au m² hors fourchette (2 691 091 FCFA/m²)
+1091,teranga,A08,avertissement,périodicité du loyer non fournie
+1098,teranga,B03,bloquante,prix invalide
+1110,teranga,A08,avertissement,périodicité du loyer non fournie
+1112,teranga,A08,avertissement,périodicité du loyer non fournie
+1113,teranga,A08,avertissement,périodicité du loyer non fournie
+1116,teranga,A08,avertissement,périodicité du loyer non fournie
+1118,teranga,A08,avertissement,périodicité du loyer non fournie
+1119,teranga,B04,bloquante,surface invalide
+1143,teranga,A08,avertissement,périodicité du loyer non fournie
+1146,teranga,A08,avertissement,périodicité du loyer non fournie
+1147,teranga,A08,avertissement,périodicité du loyer non fournie
+1152,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1154,teranga,A08,avertissement,périodicité du loyer non fournie
+1160,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1163,teranga,A08,avertissement,périodicité du loyer non fournie
+1168,teranga,A08,avertissement,périodicité du loyer non fournie
+1169,teranga,A08,avertissement,périodicité du loyer non fournie
+1170,teranga,A08,avertissement,périodicité du loyer non fournie
+1173,teranga,A06,avertissement,4 salles de bain pour 0 chambres
+1174,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1175,teranga,A08,avertissement,périodicité du loyer non fournie
+1180,teranga,A08,avertissement,périodicité du loyer non fournie
+1183,teranga,A08,avertissement,périodicité du loyer non fournie
+1184,teranga,A08,avertissement,périodicité du loyer non fournie
+1186,teranga,A08,avertissement,périodicité du loyer non fournie
+1194,teranga,A08,avertissement,périodicité du loyer non fournie
+1198,teranga,A08,avertissement,périodicité du loyer non fournie
+1199,teranga,A08,avertissement,périodicité du loyer non fournie
+1206,teranga,A08,avertissement,périodicité du loyer non fournie
+1209,teranga,A08,avertissement,périodicité du loyer non fournie
+1213,teranga,A08,avertissement,périodicité du loyer non fournie
+1217,teranga,A08,avertissement,périodicité du loyer non fournie
+1222,teranga,A08,avertissement,périodicité du loyer non fournie
+1230,teranga,A08,avertissement,périodicité du loyer non fournie
+1236,teranga,A08,avertissement,périodicité du loyer non fournie
+1238,teranga,A08,avertissement,périodicité du loyer non fournie
+1240,teranga,A08,avertissement,périodicité du loyer non fournie
+1245,teranga,A08,avertissement,périodicité du loyer non fournie
+1246,teranga,A08,avertissement,périodicité du loyer non fournie
+1264,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1267,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1273,teranga,A08,avertissement,périodicité du loyer non fournie
+1274,teranga,A08,avertissement,périodicité du loyer non fournie
+1287,teranga,A08,avertissement,périodicité du loyer non fournie
+1291,teranga,A08,avertissement,périodicité du loyer non fournie
+1292,teranga,B04,bloquante,surface invalide
+1295,teranga,A08,avertissement,périodicité du loyer non fournie
+1297,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1300,teranga,A08,avertissement,périodicité du loyer non fournie
+1304,teranga,A08,avertissement,périodicité du loyer non fournie
+1310,teranga,A08,avertissement,périodicité du loyer non fournie
+1315,teranga,A08,avertissement,périodicité du loyer non fournie
+1317,teranga,A08,avertissement,périodicité du loyer non fournie
+1321,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1322,teranga,A08,avertissement,périodicité du loyer non fournie
+1328,teranga,A08,avertissement,périodicité du loyer non fournie
+1332,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1335,teranga,A08,avertissement,périodicité du loyer non fournie
+1337,teranga,A08,avertissement,périodicité du loyer non fournie
+1343,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1343,teranga,A08,avertissement,périodicité du loyer non fournie
+1345,teranga,A08,avertissement,périodicité du loyer non fournie
+1347,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1353,teranga,A08,avertissement,périodicité du loyer non fournie
+1356,teranga,B02,bloquante,type de transaction non interprétable
+1356,teranga,B03,bloquante,prix invalide
+1357,teranga,A08,avertissement,périodicité du loyer non fournie
+1361,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1365,teranga,A06,avertissement,4 salles de bain pour 0 chambres
+1367,teranga,A08,avertissement,périodicité du loyer non fournie
+1368,teranga,A08,avertissement,périodicité du loyer non fournie
+1369,teranga,A08,avertissement,périodicité du loyer non fournie
+1372,teranga,A08,avertissement,périodicité du loyer non fournie
+1377,teranga,A08,avertissement,périodicité du loyer non fournie
+1381,teranga,A08,avertissement,périodicité du loyer non fournie
+1386,teranga,A08,avertissement,périodicité du loyer non fournie
+1395,teranga,A08,avertissement,périodicité du loyer non fournie
+1396,teranga,B03,bloquante,prix invalide
+1409,teranga,A08,avertissement,périodicité du loyer non fournie
+1410,teranga,B04,bloquante,surface invalide
+1416,teranga,A08,avertissement,périodicité du loyer non fournie
+1431,teranga,A08,avertissement,périodicité du loyer non fournie
+1442,teranga,A08,avertissement,périodicité du loyer non fournie
+1449,teranga,A08,avertissement,périodicité du loyer non fournie
+1450,teranga,A08,avertissement,périodicité du loyer non fournie
+1453,teranga,A08,avertissement,périodicité du loyer non fournie
+1459,teranga,A08,avertissement,périodicité du loyer non fournie
+1471,teranga,A08,avertissement,périodicité du loyer non fournie
+1472,teranga,A06,avertissement,4 salles de bain pour 1 chambres
+1480,teranga,A08,avertissement,périodicité du loyer non fournie
+1486,teranga,A08,avertissement,périodicité du loyer non fournie
+1492,teranga,A08,avertissement,périodicité du loyer non fournie
+1504,teranga,A08,avertissement,périodicité du loyer non fournie
+1505,teranga,A08,avertissement,périodicité du loyer non fournie
+1510,teranga,A06,avertissement,3 salles de bain pour 0 chambres
+1510,teranga,A08,avertissement,périodicité du loyer non fournie
+1514,teranga,A08,avertissement,périodicité du loyer non fournie
+1516,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1518,particuliers,B04,bloquante,surface manquant
+1518,particuliers,A08,avertissement,périodicité du loyer non fournie
+1522,particuliers,B04,bloquante,surface manquant
+1522,particuliers,A08,avertissement,périodicité du loyer non fournie
+1523,particuliers,A08,avertissement,périodicité du loyer non fournie
+1524,particuliers,A08,avertissement,périodicité du loyer non fournie
+1525,particuliers,B04,bloquante,surface manquant
+1526,particuliers,B03,bloquante,prix manquant
+1527,particuliers,A08,avertissement,périodicité du loyer non fournie
+1528,particuliers,A06,avertissement,3 salles de bain pour 0 chambres
+1530,particuliers,B04,bloquante,surface manquant
+1531,particuliers,B03,bloquante,prix manquant
+1538,particuliers,B04,bloquante,surface manquant
+1539,particuliers,B03,bloquante,prix manquant
+1539,particuliers,A08,avertissement,périodicité du loyer non fournie
+1545,particuliers,A08,avertissement,périodicité du loyer non fournie
+1548,particuliers,A08,avertissement,périodicité du loyer non fournie
+1549,particuliers,A08,avertissement,périodicité du loyer non fournie
+1550,particuliers,B03,bloquante,prix manquant
+1550,particuliers,A08,avertissement,périodicité du loyer non fournie
+1553,particuliers,B03,bloquante,prix manquant
+1555,particuliers,A08,avertissement,périodicité du loyer non fournie
+1557,particuliers,B03,bloquante,prix manquant
+1557,particuliers,A08,avertissement,périodicité du loyer non fournie
+1559,particuliers,A08,avertissement,périodicité du loyer non fournie
+1562,particuliers,A08,avertissement,périodicité du loyer non fournie
+1563,particuliers,A08,avertissement,périodicité du loyer non fournie
+1570,particuliers,A08,avertissement,périodicité du loyer non fournie
+1571,particuliers,B03,bloquante,prix manquant
+1571,particuliers,A08,avertissement,périodicité du loyer non fournie
+1574,particuliers,B04,bloquante,surface manquant
+1576,particuliers,A08,avertissement,périodicité du loyer non fournie
+1577,particuliers,B03,bloquante,prix manquant
+1579,particuliers,A08,avertissement,périodicité du loyer non fournie
+1580,particuliers,B04,bloquante,surface manquant
+1581,particuliers,B04,bloquante,surface manquant
+1583,particuliers,B03,bloquante,prix manquant
+1583,particuliers,A08,avertissement,périodicité du loyer non fournie
+1584,particuliers,B03,bloquante,prix manquant
+1584,particuliers,A08,avertissement,périodicité du loyer non fournie
+1588,particuliers,A08,avertissement,périodicité du loyer non fournie
+1589,particuliers,B04,bloquante,surface manquant
+1590,particuliers,B04,bloquante,surface manquant
+1591,particuliers,B03,bloquante,prix manquant
+1592,particuliers,A08,avertissement,périodicité du loyer non fournie
+1594,particuliers,A08,avertissement,périodicité du loyer non fournie
+1595,particuliers,A08,avertissement,périodicité du loyer non fournie
+1598,particuliers,A08,avertissement,périodicité du loyer non fournie
+1599,particuliers,B04,bloquante,surface manquant
+1602,particuliers,B04,bloquante,surface manquant
+1604,particuliers,B04,bloquante,surface manquant
+1605,particuliers,A06,avertissement,3 salles de bain pour 0 chambres
+1609,particuliers,A06,avertissement,3 salles de bain pour 0 chambres
+1610,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1616,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1616,particuliers,A08,avertissement,périodicité du loyer non fournie
+1617,particuliers,B03,bloquante,prix manquant
+1619,particuliers,B04,bloquante,surface manquant
+1623,particuliers,A08,avertissement,périodicité du loyer non fournie
+1625,particuliers,B04,bloquante,surface manquant
+1625,particuliers,A08,avertissement,périodicité du loyer non fournie
+1627,particuliers,B04,bloquante,surface manquant
+1633,particuliers,A08,avertissement,périodicité du loyer non fournie
+1634,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1635,particuliers,B04,bloquante,surface manquant
+1640,particuliers,B04,bloquante,surface manquant
+1640,particuliers,A08,avertissement,périodicité du loyer non fournie
+1643,particuliers,A08,avertissement,périodicité du loyer non fournie
+1646,particuliers,B03,bloquante,prix manquant
+1646,particuliers,A08,avertissement,périodicité du loyer non fournie
+1647,particuliers,B04,bloquante,surface manquant
+1647,particuliers,A08,avertissement,périodicité du loyer non fournie
+1648,particuliers,A08,avertissement,périodicité du loyer non fournie
+1649,particuliers,A08,avertissement,périodicité du loyer non fournie
+1650,particuliers,A06,avertissement,4 salles de bain pour 0 chambres
+1652,particuliers,A08,avertissement,périodicité du loyer non fournie
+1653,particuliers,B03,bloquante,prix manquant
+1653,particuliers,A08,avertissement,périodicité du loyer non fournie
+1656,particuliers,A08,avertissement,périodicité du loyer non fournie
+1661,particuliers,A08,avertissement,périodicité du loyer non fournie
+1663,particuliers,A08,avertissement,périodicité du loyer non fournie
+1665,particuliers,A08,avertissement,périodicité du loyer non fournie
+1666,particuliers,A08,avertissement,périodicité du loyer non fournie
+1667,particuliers,A08,avertissement,périodicité du loyer non fournie
+1668,particuliers,A08,avertissement,périodicité du loyer non fournie
+1670,particuliers,A08,avertissement,périodicité du loyer non fournie
+1671,particuliers,B04,bloquante,surface manquant
+1673,particuliers,B03,bloquante,prix manquant
+1680,particuliers,A08,avertissement,périodicité du loyer non fournie
+1683,particuliers,B04,bloquante,surface manquant
+1683,particuliers,A08,avertissement,périodicité du loyer non fournie
+1684,particuliers,B04,bloquante,surface manquant
+1686,particuliers,B03,bloquante,prix manquant
+1686,particuliers,A08,avertissement,périodicité du loyer non fournie
+1689,particuliers,A08,avertissement,périodicité du loyer non fournie
+1690,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1690,particuliers,A08,avertissement,périodicité du loyer non fournie
+1696,particuliers,B03,bloquante,prix manquant
+1696,particuliers,A08,avertissement,périodicité du loyer non fournie
+1698,particuliers,B03,bloquante,prix manquant
+1700,particuliers,B03,bloquante,prix manquant
+1703,particuliers,B03,bloquante,prix manquant
+1703,particuliers,A08,avertissement,périodicité du loyer non fournie
+1705,particuliers,A08,avertissement,périodicité du loyer non fournie
+1706,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1708,particuliers,A08,avertissement,périodicité du loyer non fournie
+1709,particuliers,A08,avertissement,périodicité du loyer non fournie
+1710,particuliers,A06,avertissement,3 salles de bain pour 0 chambres
+1710,particuliers,A08,avertissement,périodicité du loyer non fournie
+1713,particuliers,A08,avertissement,périodicité du loyer non fournie
+1716,particuliers,A08,avertissement,périodicité du loyer non fournie
+1718,particuliers,A08,avertissement,périodicité du loyer non fournie
+1719,particuliers,B03,bloquante,prix manquant
+1719,particuliers,B04,bloquante,surface manquant
+1721,particuliers,A08,avertissement,périodicité du loyer non fournie
+1728,particuliers,A08,avertissement,périodicité du loyer non fournie
+1734,particuliers,B04,bloquante,surface manquant
+1735,particuliers,A08,avertissement,périodicité du loyer non fournie
+1737,particuliers,A06,avertissement,4 salles de bain pour 0 chambres
+1744,particuliers,B03,bloquante,prix manquant
+1747,particuliers,A08,avertissement,périodicité du loyer non fournie
+1752,particuliers,A08,avertissement,périodicité du loyer non fournie
+1754,particuliers,A08,avertissement,périodicité du loyer non fournie
+1755,particuliers,A08,avertissement,périodicité du loyer non fournie
+1756,particuliers,A08,avertissement,périodicité du loyer non fournie
+1762,particuliers,A08,avertissement,périodicité du loyer non fournie
+1763,particuliers,B03,bloquante,prix manquant
+1763,particuliers,B04,bloquante,surface manquant
+1763,particuliers,A08,avertissement,périodicité du loyer non fournie
+1766,particuliers,B04,bloquante,surface manquant
+1768,particuliers,A07,avertissement,Dakar n'est pas dans Ziguinchor
+1770,particuliers,A08,avertissement,périodicité du loyer non fournie
+1773,particuliers,B03,bloquante,prix manquant
+1773,particuliers,A08,avertissement,périodicité du loyer non fournie
+1774,particuliers,B03,bloquante,prix manquant
+1774,particuliers,A08,avertissement,périodicité du loyer non fournie
+1775,particuliers,B04,bloquante,surface manquant
+1775,particuliers,A08,avertissement,périodicité du loyer non fournie
+1777,particuliers,A08,avertissement,périodicité du loyer non fournie
+1778,particuliers,B03,bloquante,prix manquant
+1778,particuliers,A06,avertissement,4 salles de bain pour 0 chambres
+1781,particuliers,B04,bloquante,surface manquant
+1782,particuliers,A08,avertissement,périodicité du loyer non fournie
+1785,particuliers,A08,avertissement,périodicité du loyer non fournie
+1790,particuliers,B03,bloquante,prix manquant
+1790,particuliers,A08,avertissement,périodicité du loyer non fournie
+1791,particuliers,A08,avertissement,périodicité du loyer non fournie
+1792,particuliers,A08,avertissement,périodicité du loyer non fournie
+1793,particuliers,B03,bloquante,prix manquant
+1795,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1805,particuliers,A08,avertissement,périodicité du loyer non fournie
+1807,particuliers,A06,avertissement,3 salles de bain pour 0 chambres
+1807,particuliers,A08,avertissement,périodicité du loyer non fournie
+1808,particuliers,B03,bloquante,prix manquant
+1808,particuliers,B04,bloquante,surface manquant
+1808,particuliers,A08,avertissement,périodicité du loyer non fournie
+1809,particuliers,B04,bloquante,surface manquant
+1810,particuliers,A08,avertissement,périodicité du loyer non fournie
+1812,particuliers,A08,avertissement,périodicité du loyer non fournie
+1813,particuliers,B04,bloquante,surface manquant
+1815,particuliers,B03,bloquante,prix manquant
+1815,particuliers,B04,bloquante,surface manquant
+1817,particuliers,A08,avertissement,périodicité du loyer non fournie
+1818,particuliers,A08,avertissement,périodicité du loyer non fournie
+1819,particuliers,B03,bloquante,prix manquant
+1824,particuliers,A08,avertissement,périodicité du loyer non fournie
+1826,particuliers,A08,avertissement,périodicité du loyer non fournie
+1827,particuliers,B03,bloquante,prix manquant
+1827,particuliers,A08,avertissement,périodicité du loyer non fournie
+1828,particuliers,B04,bloquante,surface manquant
+1828,particuliers,A08,avertissement,périodicité du loyer non fournie
+1830,particuliers,A08,avertissement,périodicité du loyer non fournie
+1831,particuliers,B04,bloquante,surface manquant
+1831,particuliers,A08,avertissement,périodicité du loyer non fournie
+1832,particuliers,A08,avertissement,périodicité du loyer non fournie
+1833,particuliers,A08,avertissement,périodicité du loyer non fournie
+1835,particuliers,A04,avertissement,prix au m² hors fourchette (3 169 959 FCFA/m²)
+1836,particuliers,B03,bloquante,prix manquant
+1836,particuliers,A08,avertissement,périodicité du loyer non fournie
+1837,particuliers,A08,avertissement,périodicité du loyer non fournie
+1838,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1840,particuliers,A08,avertissement,périodicité du loyer non fournie
+1841,particuliers,A08,avertissement,périodicité du loyer non fournie
+1844,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1845,particuliers,B03,bloquante,prix manquant
+1846,particuliers,A08,avertissement,périodicité du loyer non fournie
+1848,particuliers,A08,avertissement,périodicité du loyer non fournie
+1850,particuliers,A08,avertissement,périodicité du loyer non fournie
+1851,particuliers,A08,avertissement,périodicité du loyer non fournie
+1852,particuliers,B04,bloquante,surface manquant
+1855,particuliers,A08,avertissement,périodicité du loyer non fournie
+1856,particuliers,A08,avertissement,périodicité du loyer non fournie
+1868,particuliers,B04,bloquante,surface manquant
+1870,particuliers,B03,bloquante,prix manquant
+1871,particuliers,B04,bloquante,surface manquant
+1872,particuliers,A08,avertissement,périodicité du loyer non fournie
+1873,particuliers,A08,avertissement,périodicité du loyer non fournie
+1874,particuliers,A08,avertissement,périodicité du loyer non fournie
+1876,particuliers,A08,avertissement,périodicité du loyer non fournie
+1877,particuliers,B04,bloquante,surface manquant
+1877,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1877,particuliers,A08,avertissement,périodicité du loyer non fournie
+1882,particuliers,A08,avertissement,périodicité du loyer non fournie
+1883,particuliers,A08,avertissement,périodicité du loyer non fournie
+1885,particuliers,B04,bloquante,surface manquant
+1885,particuliers,A08,avertissement,périodicité du loyer non fournie
+1888,particuliers,A08,avertissement,périodicité du loyer non fournie
+1889,particuliers,A08,avertissement,périodicité du loyer non fournie
+1890,particuliers,B03,bloquante,prix manquant
+1892,particuliers,B03,bloquante,prix manquant
+1896,particuliers,B03,bloquante,prix manquant
+1897,particuliers,B03,bloquante,prix manquant
+1897,particuliers,A08,avertissement,périodicité du loyer non fournie
+1899,particuliers,B04,bloquante,surface manquant
+1902,particuliers,A08,avertissement,périodicité du loyer non fournie
+1909,particuliers,B03,bloquante,prix manquant
+1910,particuliers,A08,avertissement,périodicité du loyer non fournie
+1914,particuliers,A08,avertissement,périodicité du loyer non fournie
+1915,particuliers,B03,bloquante,prix manquant
+1916,particuliers,B04,bloquante,surface manquant
+1918,particuliers,B03,bloquante,prix manquant
+1918,particuliers,A08,avertissement,périodicité du loyer non fournie
+1921,particuliers,A08,avertissement,périodicité du loyer non fournie
+1924,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1926,particuliers,A08,avertissement,périodicité du loyer non fournie
+1927,particuliers,A08,avertissement,périodicité du loyer non fournie
+1928,particuliers,B04,bloquante,surface manquant
+1928,particuliers,A08,avertissement,périodicité du loyer non fournie
+1930,particuliers,B03,bloquante,prix manquant
+1933,particuliers,A07,avertissement,Dakar n'est pas dans Ziguinchor
+1933,particuliers,A08,avertissement,périodicité du loyer non fournie
+1935,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1937,particuliers,B04,bloquante,surface manquant
+1938,particuliers,A08,avertissement,périodicité du loyer non fournie
+1940,particuliers,A08,avertissement,périodicité du loyer non fournie
+1941,particuliers,A08,avertissement,périodicité du loyer non fournie
+1942,particuliers,A08,avertissement,périodicité du loyer non fournie
+1952,particuliers,A08,avertissement,périodicité du loyer non fournie
+1953,particuliers,A06,avertissement,4 salles de bain pour 0 chambres
+1953,particuliers,A08,avertissement,périodicité du loyer non fournie
+1957,particuliers,B04,bloquante,surface manquant
+1959,particuliers,A08,avertissement,périodicité du loyer non fournie
+1961,particuliers,A08,avertissement,périodicité du loyer non fournie
+1962,particuliers,A08,avertissement,périodicité du loyer non fournie
+1963,particuliers,A08,avertissement,périodicité du loyer non fournie
+1964,particuliers,A08,avertissement,périodicité du loyer non fournie
+1965,particuliers,A08,avertissement,périodicité du loyer non fournie
+1974,particuliers,B04,bloquante,surface manquant
+1978,particuliers,B04,bloquante,surface manquant
+1978,particuliers,A08,avertissement,périodicité du loyer non fournie
+1982,particuliers,A06,avertissement,3 salles de bain pour 0 chambres
+1984,particuliers,A08,avertissement,périodicité du loyer non fournie
+1989,particuliers,A08,avertissement,périodicité du loyer non fournie
+1995,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+1996,particuliers,B03,bloquante,prix manquant
+1998,particuliers,A08,avertissement,périodicité du loyer non fournie
+1999,particuliers,B04,bloquante,surface manquant
+1999,particuliers,A08,avertissement,périodicité du loyer non fournie
+2000,particuliers,A08,avertissement,périodicité du loyer non fournie
+2006,particuliers,A08,avertissement,périodicité du loyer non fournie
+2010,particuliers,B04,bloquante,surface manquant
+2010,particuliers,A08,avertissement,périodicité du loyer non fournie
+2011,particuliers,A08,avertissement,périodicité du loyer non fournie
+2013,particuliers,A08,avertissement,périodicité du loyer non fournie
+2016,particuliers,B04,bloquante,surface manquant
+2016,particuliers,A08,avertissement,périodicité du loyer non fournie
+2017,particuliers,A08,avertissement,périodicité du loyer non fournie
+2020,particuliers,B03,bloquante,prix manquant
+2026,particuliers,A08,avertissement,périodicité du loyer non fournie
+2028,particuliers,A08,avertissement,périodicité du loyer non fournie
+2029,particuliers,B03,bloquante,prix manquant
+2030,particuliers,A08,avertissement,périodicité du loyer non fournie
+2031,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+2034,particuliers,A08,avertissement,périodicité du loyer non fournie
+2035,particuliers,A08,avertissement,périodicité du loyer non fournie
+2038,particuliers,A08,avertissement,périodicité du loyer non fournie
+2039,particuliers,B04,bloquante,surface manquant
+2040,particuliers,B04,bloquante,surface manquant
+2044,particuliers,B03,bloquante,prix manquant
+2046,particuliers,B03,bloquante,prix manquant
+2047,particuliers,B03,bloquante,prix manquant
+2049,particuliers,B04,bloquante,surface manquant
+2050,particuliers,B04,bloquante,surface manquant
+2051,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+2051,particuliers,A08,avertissement,périodicité du loyer non fournie
+2053,particuliers,A07,avertissement,Dakar n'est pas dans Ziguinchor
+2054,particuliers,B04,bloquante,surface manquant
+2054,particuliers,A08,avertissement,périodicité du loyer non fournie
+2055,particuliers,B03,bloquante,prix manquant
+2056,particuliers,B04,bloquante,surface manquant
+2057,particuliers,A08,avertissement,périodicité du loyer non fournie
+2058,particuliers,A08,avertissement,périodicité du loyer non fournie
+2062,particuliers,A08,avertissement,périodicité du loyer non fournie
+2064,particuliers,A08,avertissement,périodicité du loyer non fournie
+2066,particuliers,B04,bloquante,surface manquant
+2067,particuliers,A08,avertissement,périodicité du loyer non fournie
+2068,particuliers,A08,avertissement,périodicité du loyer non fournie
+2069,particuliers,A08,avertissement,périodicité du loyer non fournie
+2070,particuliers,A08,avertissement,périodicité du loyer non fournie
+2072,particuliers,B03,bloquante,prix manquant
+2073,particuliers,A08,avertissement,périodicité du loyer non fournie
+2074,particuliers,B03,bloquante,prix manquant
+2074,particuliers,B04,bloquante,surface manquant
+2075,particuliers,A08,avertissement,périodicité du loyer non fournie
+2078,particuliers,A08,avertissement,périodicité du loyer non fournie
+2080,particuliers,B04,bloquante,surface manquant
+2081,particuliers,B04,bloquante,surface manquant
+2082,particuliers,A08,avertissement,périodicité du loyer non fournie
+2084,particuliers,B03,bloquante,prix manquant
+2085,particuliers,A08,avertissement,périodicité du loyer non fournie
+2088,particuliers,A08,avertissement,périodicité du loyer non fournie
+2089,particuliers,B04,bloquante,surface manquant
+2089,particuliers,A08,avertissement,périodicité du loyer non fournie
+2091,particuliers,A08,avertissement,périodicité du loyer non fournie
+2092,particuliers,A08,avertissement,périodicité du loyer non fournie
+2095,particuliers,B04,bloquante,surface manquant
+2095,particuliers,A08,avertissement,périodicité du loyer non fournie
+2096,particuliers,A08,avertissement,périodicité du loyer non fournie
+2097,particuliers,B03,bloquante,prix manquant
+2099,particuliers,A08,avertissement,périodicité du loyer non fournie
+2100,particuliers,B03,bloquante,prix manquant
+2100,particuliers,B04,bloquante,surface manquant
+2100,particuliers,A08,avertissement,périodicité du loyer non fournie
+2101,particuliers,A08,avertissement,périodicité du loyer non fournie
+2104,particuliers,B03,bloquante,prix manquant
+2105,particuliers,A08,avertissement,périodicité du loyer non fournie
+2108,particuliers,B04,bloquante,surface manquant
+2110,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+2113,particuliers,A08,avertissement,périodicité du loyer non fournie
+2114,particuliers,A08,avertissement,périodicité du loyer non fournie
+2117,particuliers,A08,avertissement,périodicité du loyer non fournie
+2119,particuliers,A08,avertissement,périodicité du loyer non fournie
+2120,particuliers,A08,avertissement,périodicité du loyer non fournie
+2121,particuliers,A08,avertissement,périodicité du loyer non fournie
+2128,particuliers,B03,bloquante,prix manquant
+2128,particuliers,A08,avertissement,périodicité du loyer non fournie
+2130,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+2134,particuliers,A08,avertissement,périodicité du loyer non fournie
+2135,particuliers,A08,avertissement,périodicité du loyer non fournie
+2137,particuliers,A08,avertissement,périodicité du loyer non fournie
+2140,particuliers,A06,avertissement,4 salles de bain pour 0 chambres
+2140,particuliers,A08,avertissement,périodicité du loyer non fournie
+2143,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+2145,particuliers,B04,bloquante,surface manquant
+2147,particuliers,B03,bloquante,prix manquant
+2148,particuliers,A08,avertissement,périodicité du loyer non fournie
+2149,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+2150,particuliers,A08,avertissement,périodicité du loyer non fournie
+2152,particuliers,A08,avertissement,périodicité du loyer non fournie
+2155,particuliers,A08,avertissement,périodicité du loyer non fournie
+2158,particuliers,A08,avertissement,périodicité du loyer non fournie
+2159,particuliers,A08,avertissement,périodicité du loyer non fournie
+2160,particuliers,A08,avertissement,périodicité du loyer non fournie
+2161,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+2167,particuliers,B03,bloquante,prix manquant
+2167,particuliers,A08,avertissement,périodicité du loyer non fournie
+2170,particuliers,A08,avertissement,périodicité du loyer non fournie
+2172,particuliers,B04,bloquante,surface manquant
+2173,particuliers,A08,avertissement,périodicité du loyer non fournie
+2176,particuliers,B03,bloquante,prix manquant
+2177,particuliers,B04,bloquante,surface manquant
+2177,particuliers,A08,avertissement,périodicité du loyer non fournie
+2178,particuliers,B04,bloquante,surface manquant
+2179,particuliers,B04,bloquante,surface manquant
+2180,particuliers,A08,avertissement,périodicité du loyer non fournie
+2181,particuliers,A08,avertissement,périodicité du loyer non fournie
+2182,particuliers,A07,avertissement,Dakar n'est pas dans Ziguinchor
+2186,particuliers,A08,avertissement,périodicité du loyer non fournie
+2187,particuliers,A08,avertissement,périodicité du loyer non fournie
+2189,particuliers,B04,bloquante,surface manquant
+2191,particuliers,B03,bloquante,prix manquant
+2191,particuliers,A08,avertissement,périodicité du loyer non fournie
+2192,particuliers,A08,avertissement,périodicité du loyer non fournie
+2193,particuliers,B03,bloquante,prix manquant
+2194,particuliers,B04,bloquante,surface manquant
+2195,particuliers,A08,avertissement,périodicité du loyer non fournie
+2201,particuliers,A08,avertissement,périodicité du loyer non fournie
+2202,particuliers,B04,bloquante,surface manquant
+2207,particuliers,A08,avertissement,périodicité du loyer non fournie
+2208,particuliers,B04,bloquante,surface manquant
+2210,particuliers,A08,avertissement,périodicité du loyer non fournie
+2216,particuliers,B04,bloquante,surface manquant
+2217,particuliers,A06,avertissement,4 salles de bain pour 1 chambres
+2221,particuliers,B03,bloquante,prix manquant
+2222,particuliers,A06,avertissement,4 salles de bain pour 0 chambres
+2223,particuliers,B04,bloquante,surface manquant
+2226,particuliers,A08,avertissement,périodicité du loyer non fournie
+2228,particuliers,A08,avertissement,périodicité du loyer non fournie
+2230,particuliers,A06,avertissement,4 salles de bain pour 0 chambres
+2230,particuliers,A08,avertissement,périodicité du loyer non fournie
+2234,particuliers,A08,avertissement,périodicité du loyer non fournie
+2236,particuliers,A08,avertissement,périodicité du loyer non fournie
+2240,particuliers,B04,bloquante,surface manquant
+2242,particuliers,A08,avertissement,périodicité du loyer non fournie
+2243,particuliers,A08,avertissement,périodicité du loyer non fournie
+2262,notaires,B03,bloquante,prix manquant
+2299,notaires,B03,bloquante,prix manquant
+2304,notaires,B03,bloquante,prix manquant
+2339,notaires,B03,bloquante,prix manquant
+2368,notaires,B03,bloquante,prix manquant
+2384,notaires,B03,bloquante,prix manquant
+2415,notaires,B03,bloquante,prix manquant
+2416,notaires,B03,bloquante,prix manquant
+2447,notaires,A04,avertissement,prix au m² hors fourchette (3 114 201 FCFA/m²)
+2448,notaires,B05,bloquante,date invalide
+2450,notaires,B05,bloquante,date invalide
+2454,notaires,B03,bloquante,prix manquant
+2482,notaires,B03,bloquante,prix manquant
+2495,notaires,B05,bloquante,date invalide
+2528,notaires,B03,bloquante,prix manquant
+2529,notaires,B03,bloquante,prix manquant
+2538,notaires,B03,bloquante,prix manquant
+2610,notaires,B03,bloquante,prix manquant
+2613,notaires,B05,bloquante,date invalide
+2619,notaires,B05,bloquante,date invalide
+2630,notaires,A04,avertissement,prix au m² hors fourchette (3 908 988 FCFA/m²)
+2638,notaires,B05,bloquante,date invalide
+2668,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2678,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2681,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2727,historique,B03,bloquante,prix manquant
+2735,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2739,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2740,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2742,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2760,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2773,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2783,historique,B03,bloquante,prix manquant
+2789,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2797,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2808,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2815,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2818,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2820,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2828,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2847,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2850,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2853,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2860,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2861,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2863,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2864,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2865,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2875,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2876,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2883,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2900,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2906,historique,B03,bloquante,prix manquant
+2910,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2921,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2922,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2923,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2924,historique,B03,bloquante,prix manquant
+2948,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2950,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2956,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2957,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2958,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2963,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2970,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2973,historique,A06,avertissement,3 salles de bain pour 0 chambres
+2976,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2980,historique,B03,bloquante,prix manquant
+2980,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2986,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2989,historique,A06,avertissement,4 salles de bain pour 1 chambres
+2991,historique,A06,avertissement,4 salles de bain pour 0 chambres
+2995,historique,A06,avertissement,3 salles de bain pour 0 chambres
+3007,historique,A06,avertissement,3 salles de bain pour 0 chambres
+3012,historique,A06,avertissement,4 salles de bain pour 1 chambres
+3014,historique,A06,avertissement,4 salles de bain pour 1 chambres
+3016,historique,A06,avertissement,3 salles de bain pour 0 chambres
+3023,historique,A06,avertissement,3 salles de bain pour 0 chambres
+3024,historique,A06,avertissement,4 salles de bain pour 0 chambres
+3027,historique,B03,bloquante,prix manquant
+3041,historique,A06,avertissement,4 salles de bain pour 1 chambres
+3042,historique,A06,avertissement,4 salles de bain pour 1 chambres
+3047,historique,A06,avertissement,4 salles de bain pour 1 chambres
+3061,historique,A06,avertissement,4 salles de bain pour 0 chambres
+3078,historique,B03,bloquante,prix manquant
+3085,historique,B03,bloquante,prix manquant
+3085,historique,A06,avertissement,3 salles de bain pour 0 chambres
+3105,historique,A06,avertissement,3 salles de bain pour 0 chambres
+3111,historique,A06,avertissement,4 salles de bain pour 0 chambres
+3115,historique,A06,avertissement,3 salles de bain pour 0 chambres
+3116,historique,A06,avertissement,4 salles de bain pour 1 chambres
+3118,historique,A06,avertissement,4 salles de bain pour 1 chambres
+3133,historique,B03,bloquante,prix manquant
+3155,historique,A06,avertissement,3 salles de bain pour 0 chambres
+3161,historique,B03,bloquante,prix manquant
+3183,historique,A06,avertissement,3 salles de bain pour 0 chambres

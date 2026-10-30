@@ -81,3 +81,11 @@
 - **Résultat** : 15 doublons exacts (0,47 %), tous dans la plateforme ; 0 doublon probable, 0 conflit.
 - **Limite** : le cahier des charges annonce des chevauchements entre sources ; aucun n'est détectable dans le pack fourni avec ces critères. Le détecteur est validé sur des cas fabriqués.
 - **Mise à jour de D-013** : le classement final compte quatre catégories : entièrement conformes 2 589, avec avertissement 394, quarantaine 186, doublons écartés 15 (taux global 81,31 %).
+
+
+## D-015 — Exports et indicateurs du rapport de qualité
+- **Données propres** : enregistrements « entièrement conformes » et « conservés avec avertissement » (colonne `avertissements` avec les codes de règles). `id_bien` = `source:id_local`, unique après écartement des doublons exacts.
+- **Quarantaine** : enregistrements en quarantaine et copies de doublons exacts, avec le motif de chaque rejet et les valeurs brutes de date, prix et surface.
+- **Enregistrements corrigés** : au moins une valeur normalisée (millions, séparateurs, virgule décimale, casse, nombre en lettres), hors type de transaction et périodicité qui sont déduits et comptés à part.
+- **Colonnes absentes par construction** (par exemple `plateforme.chambres`) listées dans le rapport et distinguées des valeurs manquantes.
+- **Reproductibilité** : le pipeline se lance avec `python -m src.main --date AAAA-MM-JJ` depuis la racine ; relancer remplace les fichiers de sortie par des fichiers identiques ; `data/raw/` n'est jamais modifié (vérifié par empreintes dans les tests).
