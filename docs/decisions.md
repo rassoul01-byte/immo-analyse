@@ -71,3 +71,13 @@
 - **Classement global** : un enregistrement est compté une seule fois. Quarantaine si au moins une règle bloquante est violée, sinon conservé avec avertissement si au moins un avertissement, sinon entièrement conforme.
 - **Résultat** : 187 en quarantaine, 394 avec avertissement, 2 603 entièrement conformes (81,75 % de 3 184).
 - **Limite** : les seuils d'avertissement sont des hypothèses pédagogiques ; la règle B06 dépend de la date d'exécution, qui sera consignée dans le rapport.
+
+
+## D-014 — Stratégie de détection des doublons et des conflits
+- **Types de liens** : doublon exact (même source, même identifiant, mêmes valeurs), conflit d'identifiant, doublon probable (même bien apparent), conflit de prix.
+- **Traitement** : la première occurrence d'un doublon exact est conservée et ses copies sont écartées ; probables et conflits sont signalés et conservés, jamais fusionnés.
+- **Critères de rapprochement** : même type de transaction, type de bien et ville ; surface à ±0,2 % ; date à ±30 jours ; prix à ±5 % pour un doublon probable, au-delà conflit de prix ; deux nombres de chambres connus et différents excluent le rapprochement.
+- **Justification des seuils** : sur 12 683 paires comparables, aucune n'a une surface identique ; à ±1 % et 60 jours, 10 paires ressortaient, dont 5 avec chambres incompatibles et aucune avec un prix à ±5 % : des biens distincts, pas des doublons. Le réglage retenu écarte ces coïncidences.
+- **Résultat** : 15 doublons exacts (0,47 %), tous dans la plateforme ; 0 doublon probable, 0 conflit.
+- **Limite** : le cahier des charges annonce des chevauchements entre sources ; aucun n'est détectable dans le pack fourni avec ces critères. Le détecteur est validé sur des cas fabriqués.
+- **Mise à jour de D-013** : le classement final compte quatre catégories : entièrement conformes 2 589, avec avertissement 394, quarantaine 186, doublons écartés 15 (taux global 81,31 %).

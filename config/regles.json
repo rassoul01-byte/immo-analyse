@@ -1,4 +1,6 @@
 {
+  "doublons": {"tolerance_surface_pct": 0.2, "tolerance_prix_pct": 5.0, "tolerance_date_jours": 30},
+  "doublons": {"tolerance_surface_pct": 0.2, "tolerance_prix_pct": 5.0, "tolerance_date_jours": 30},
   "gravites": {
     "bloquante": "quarantaine",
     "normalisable": "correction documentée",
