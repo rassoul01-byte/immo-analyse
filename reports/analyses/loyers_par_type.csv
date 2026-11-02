@@ -1,0 +1,8 @@
+type_bien,n,loyer_median,loyer_moyen,effectif_fiable
+Appartement,53,370000.0,367264.1509433962,True
+Maison,31,545000.0,515000.0,True
+Terrain,29,160000.0,167758.62068965516,True
+Studio,23,160000.0,159347.8260869565,True
+Villa,21,850000.0,930238.0952380953,True
+Chambre,8,70000.0,68125.0,True
+Local commercial,6,592500.0,592500.0,True
