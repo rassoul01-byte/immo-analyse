@@ -97,3 +97,9 @@
 - **Indicateurs** : la médiane est privilégiée à la moyenne car la distribution des prix est asymétrique (médiane 74,98 M contre moyenne 104,63 M FCFA) ; la moyenne est fournie à titre de comparaison.
 - **Groupes** : un groupe de moins de 5 biens est marqué `effectif_fiable = False`.
 - **Limite** : prix demandés (annonces), données synthétiques ; aucune conclusion sur les prix réels du marché.
+
+
+## D-017 — Notebook d'exploration
+- **Choix** : le notebook lit uniquement les fichiers produits par le pipeline (`data/processed/`, `data/quarantine/`, `reports/`) et ne recalcule pas les règles ; il appelle seulement les fonctions d'analyse de `src/analysis/statistiques.py` et recharge les données brutes pour comparer avant et après nettoyage.
+- **Reproductibilité** : le notebook détecte la racine du projet et fonctionne quel que soit le dossier de lancement ; il s'exécute de haut en bas sans erreur après `python -m src.main`.
+- **Limites** : données synthétiques, prix demandés, seuils pédagogiques ; les différences entre villes ne sont pas interprétées comme des écarts de marché.
