@@ -40,13 +40,13 @@ Le détail se trouve dans `reports/quality_report.json` et dans le notebook `not
 
 ## Installation
 
-Prérequis : **Python 3.10 ou plus récent** (testé avec Python 3.13) et **Git**.
+Prérequis : **Python 3.11 ou plus récent** (testé avec Python 3.12 et 3.13) et **Git**.
 
 ```bash
 git clone https://github.com/rassoul01-byte/immo-analyse.git
 cd immo-analyse
 
-python -m venv venv
+python3 -m venv venv              # Windows : python -m venv venv
 source venv/bin/activate          # Linux / macOS
 # venv\Scripts\Activate.ps1       # Windows (PowerShell)
 

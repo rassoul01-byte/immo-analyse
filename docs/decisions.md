@@ -19,7 +19,7 @@
 - **Décision** : `pieces` conservé dans une colonne additionnelle ; `chambres` reste non renseigné pour la plateforme.
 - **Raison** : le nombre de pièces inclut le salon ; l'assimiler fausserait les règles sur les chambres et les salles de bain.
 
-## D-004 — `type_transaction` non déduit pour teranga, notaires, historique
+## D-004 — `type_transaction` non déduit pour teranga, notaires, historique (résolu par D-011)
 - **Constat** : colonne absente de ces trois sources (1 578 enregistrements) et le pack ne précise rien.
 - **Décision** : laissé non renseigné à l'harmonisation ; à trancher à l'étape de normalisation, avec justification.
 
@@ -44,7 +44,7 @@
 - **Notaires** : les 6 dates à barres sont toutes impossibles (`32/13/2024`) ; elles sont invalides et iront en quarantaine.
 - **Décision** : `JJ/MM/AAAA` appliqué à toutes les sources, validé par les preuves de D-001, D-002 et D-008.
 
-## D-009 — Type de bien hors référentiel : gravité à trancher
+## D-009 — Type de bien hors référentiel : gravité à trancher (résolu par D-012)
 - **Constat** : le cahier des charges (6.1) prescrit la quarantaine, `regles_metier.md` prescrit un avertissement.
 - **Décision** : à fixer dans `config/regles.json` à la tâche 3. Dans ce pack, aucun cas n'est concerné (tous les types se ramènent aux 7 catégories).
 
